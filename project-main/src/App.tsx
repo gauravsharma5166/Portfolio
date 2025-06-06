@@ -19,7 +19,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
         <footer className="py-8 text-center text-gray-400">
-          <p>© {new Date().getFullYear()} Made with <Heart size={15} className="inline text-red-500 fill-red-500"  /> Moment Memories Misery. </p>
+          <p>© {new Date().getFullYear()} Crafted with <Heart size={15} className="inline text-red-500 fill-red-500"  /> Code, Curiosity & Cognitive models. </p>
         </footer>
       </div>
     </BrowserRouter>
