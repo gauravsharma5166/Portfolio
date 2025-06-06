@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github, Linkedin, Mail , CodeIcon} from 'lucide-react';
+import { Github, Linkedin, Mail , CodeIcon, Braces} from 'lucide-react';
 
 export default function Contact() {
   return (
@@ -22,7 +22,7 @@ export default function Contact() {
             </div>
           </a>
           <a href="https://www.naukri.com/code360/profile/gaurav5166" className="bg-gray-800 p-6 rounded-xl flex items-center gap-4 hover:bg-gray-700 transition-colors">
-            <CodeIcon className="w-8 h-8" />
+            <Braces className="w-8 h-8" />
             <div>
               <h3 className="font-bold">Code360</h3>
               <p className="text-gray-400">Check out my Profile...</p>
@@ -47,3 +47,5 @@ export default function Contact() {
     </div>
   );
 }
+
+
