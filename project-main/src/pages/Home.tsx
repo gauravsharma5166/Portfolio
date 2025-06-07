@@ -21,7 +21,7 @@ export default function Home() {
                 Hi, I am Gaurav Sharma
               </div>
               <h1 className="text-4xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500 animate-slide-up">
-                Web Developer | ML Enthusiast | Problem Solver
+                Web Developer | ML Enthusiast
               </h1>
               <p className="text-xl text-gray-300 mb-8">
               Building smart web apps with code, logic, and curiosity.
